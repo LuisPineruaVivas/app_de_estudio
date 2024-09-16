@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "350647957511",
+    "project_id": "app-de-estudio-1f24c",
+    "storage_bucket": "app-de-estudio-1f24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350647957511:android:600b884390da83605ed2a2",
+        "android_client_info": {
+          "package_name": "com.example.app_de_estudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350647957511-5v2ukvged44aq924rpnc2gvv8p7g9kh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_de_estudio",
+            "certificate_hash": "9d77d09084c4eb8b45875045121ce17a8807309d"
+          }
+        },
+        {
+          "client_id": "350647957511-vu5vqor6q0dtrfs6be73p3i02k6do18m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD468szyZh8JBzGb0dMzxHgHhS92-QaLLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350647957511-vu5vqor6q0dtrfs6be73p3i02k6do18m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350647957511-odmktlihd8uh7qugr4osktffoqm7kcpi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appDeEstudio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
